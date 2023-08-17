@@ -1,0 +1,24 @@
+{1,2,3}
+type({1,2})
+my_set={}
+type(my_set)
+type(set())
+type({3})
+type({3,5,7})
+my_set={4,4,7}
+my_set
+names=["Nina","Nina","Riya"]
+set(names)
+#shortcut to check for mutability
+#hash()
+hash(4)
+hash("Name")
+my_set={"a",2,67,5,"Riya"}
+my_set
+my_set.add("orange")
+my_set
+color={"Red","Blue"}
+colors={"Red","Blue"}
+numbers={1,3,5}
+colors.update(numbers)
+colors
