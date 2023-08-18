@@ -21,3 +21,8 @@ lottery_numbers+[1,3]
 lottery_numbers.insert(0,55)
 lottery_numbers
 1 in lottery_numbers
+long_list=list(range(24))
+long_list
+print(long_list)
+from pprint import pprint
+pprint(long_list)
