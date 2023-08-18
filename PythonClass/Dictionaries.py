@@ -27,3 +27,4 @@ my_dict
 my_dict.keys()
 my_dict.values()
 my_dict.items()
+my_dict.update()
