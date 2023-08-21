@@ -1,0 +1,16 @@
+my_string="Hello, world!"
+my_string[0]
+my_string[7:12]
+my_string[:12]
+my_string[:]
+my_string[7:]
+my_string[-1]
+my_string[-10:-7]
+my_string="Tiyasha"
+my_string[0]
+my_string[-5:-3]
+my_string[6]
+my_list=["h","e","y","i","D","h","!"]
+my_list[4:6]
+my_list[4:]
+my_list[:]
