@@ -31,7 +31,7 @@ names=["Riya","Piya","Madhu"]
 def return_target(target="stan"): 
  for name in name:
     if name=="target":
-        return name
+        return names
  return_target() 
  return_target(target="Riya") 
    
